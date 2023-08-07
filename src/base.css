@@ -145,7 +145,7 @@ div[class*="typeWindows-"]::after {
   width: fit-content;
   margin: 0;
   padding: 6px;
-  border-radius: 13px;
+  border-radius: 8px;
 }
 
 .markup-eYLPri blockquote, .markup-eYLPri pre {
