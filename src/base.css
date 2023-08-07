@@ -78,7 +78,7 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 }
 
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
-  background-color: rgba(0,0,0,0.7);
+  background-color: var(--darkplus-bg2);
   display: inline-block;
   max-width: 650px;
   width: -webkit-fit-content;
@@ -92,6 +92,7 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 .markup-eYLPri blockquote, .markup-eYLPri pre {
   max-width: 100%;
 }
+
 .scrollerSpacer-3AqkT9 {
   display: none !important;
 }
