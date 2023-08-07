@@ -272,22 +272,6 @@ div[class^="members-"] div[class^="member-"] {
 	--interactive-active: rgba(var(--accent), 1);
 }
 
-.cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
-  background-color: rgba(255,255,255,0.7);
-  display: inline-block;
-  max-width: 650px;
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
-  margin: 0;
-  padding: 8px;
-  border-radius: 15px;
-}
-
-.markup-eYLPri blockquote, .markup-eYLPri pre {
-  max-width: 100%;
-}
-
 /* Sidebar Header */
 
 nav[aria-label]>div>header {
@@ -481,6 +465,23 @@ div[id^="chat-messages-"]>div>[class^="avatar-"] {
 div[id^="chat-messages-"][class*="cozy-"] div::before {
 	--gutter: 13px;
 }
+
+.cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
+  background-color: rgba(0,0,0,0.7);
+  display: inline-block;
+  max-width: 650px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0;
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.markup-eYLPri blockquote, .markup-eYLPri pre {
+  max-width: 100%;
+}
+
 
 .mention {
 	transition: 150ms ease;
