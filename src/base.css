@@ -1,4 +1,4 @@
-/* 
+g/* 
  * Yes, this codebase is near unreadable. Why?
  * I designed this mainly as a test to see how viable avoidance of straight out class selectors would be.
  * The codebase was never designed to be pretty, it was designed to require as little maintenance as possible.
@@ -463,7 +463,7 @@ div[id^="chat-messages-"]>div>[class^="avatar-"] {
 }
 
 div[id^="chat-messages-"][class*="cozy-"] div::before {
-	--gutter: 0px;
+	--gutter: 8px;
 }
 
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
