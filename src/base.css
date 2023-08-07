@@ -19,7 +19,7 @@ button {
 	--font-primary: 'Karla', sans-serif;
 	--font-display: var(--font-primary) !important;
 	/* Dark Matter Variables */
-	--avatar-size: 16px;
+	--avatar-size: 32px;
 	--background-image: url('https://i.imgur.com/7SbtKvw.png');
 	--home-image: url('https://i.imgur.com/233d55Y.gif');
 	--background-solid: #161921;
@@ -465,7 +465,7 @@ div[id^="chat-messages-"]>div>[class^="avatar-"] {
 div[id^="chat-messages-"][class*="cozy-"] div::before {
 	--gutter: 13px;
 }
-/*
+
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
   background-color: rgba(0,0,0,0.7);
   display: inline-block;
@@ -481,7 +481,6 @@ div[id^="chat-messages-"][class*="cozy-"] div::before {
 .markup-eYLPri blockquote, .markup-eYLPri pre {
   max-width: 100%;
 }
-*/
 
 
 .mention {
