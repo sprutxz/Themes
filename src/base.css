@@ -434,7 +434,7 @@ div[class^="channelTextArea-"] {
 }
 
 div[id^="chat-messages-"]+div:not([id]):last-child {
-	height: 8px;
+	height: 0px;
 }
 
 div[id^="chat-messages-"][class*="cozy-"] {
@@ -457,13 +457,13 @@ div[id^="chat-messages-"] {
 }
 
 div[id^="chat-messages-"]>div>[class^="avatar-"] {
-	margin-top: 6px;
+	margin-top: 0px;
 	width: var(--avatar-size);
 	height: var(--avatar-size);
 }
 
 div[id^="chat-messages-"][class*="cozy-"] div::before {
-	--gutter: 13px;
+	--gutter: 0px;
 }
 
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
