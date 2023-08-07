@@ -434,7 +434,7 @@ div[class^="channelTextArea-"] {
 }
 
 div[id^="chat-messages-"]+div:not([id]):last-child {
-	height: 0px;
+	height: 8px;
 }
 
 div[id^="chat-messages-"][class*="cozy-"] {
