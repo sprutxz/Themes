@@ -463,7 +463,7 @@ div[id^="chat-messages-"]>div>[class^="avatar-"] {
 }
 
 div[id^="chat-messages-"][class*="cozy-"] div::before {
-	--gutter: 11px;
+	--gutter: 13px;
 }
 
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
