@@ -85,8 +85,8 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
   width: -moz-fit-content;
   width: fit-content;
   margin: 0px;
-  padding: 0px;
-  border-radius: 0px;
+  padding: 8px;
+  border-radius: 15px;
 }
 
 .markup-eYLPri blockquote, .markup-eYLPri pre {
