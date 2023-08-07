@@ -78,7 +78,7 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 }
 
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
-  background-color: var(--darkplus-bg2);
+  background-color: rgba(0,0,0,0.7);
   display: inline-block;
   max-width: 650px;
   width: -webkit-fit-content;
