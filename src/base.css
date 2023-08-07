@@ -77,13 +77,32 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 	background-color: rgba(var(--accent-alt), 0.5);
 }
 
+.cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
+  background-color: rgba(0,0,0,0.7);
+  display: inline-block;
+  max-width: 650px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0;
+  padding: 6px;
+  border-radius: 8px;
+}
+
+.markup-eYLPri blockquote, .markup-eYLPri pre {
+  max-width: 100%;
+}
+
+.scrollerSpacer-3AqkT9 {
+  display: none !important;
+}
+
 
 /* Scrollbars */
 
 ::-webkit-scrollbar {
 	width: 14px !important;
 }
-
  ::-webkit-scrollbar-thumb {
 	border-radius: 8px !important;
 	border: 3px solid transparent !important;
@@ -134,22 +153,6 @@ div[class*="typeWindows-"]::after {
 	height: 30px;
 	background: rgba(var(--md-black), 0.85);
 	z-index: -1;
-}
-
-.cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty, code) {
-  background-color: rgba(0,0,0,0.7);
-  display: inline-block;
-  max-width: 650px;
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
-  margin: 0;
-  padding: 6px;
-  border-radius: 8px;
-}
-
-.markup-eYLPri blockquote, .markup-eYLPri pre {
-  max-width: 100%;
 }
 
 
