@@ -1,4 +1,4 @@
-g/* 
+/* 
  * Yes, this codebase is near unreadable. Why?
  * I designed this mainly as a test to see how viable avoidance of straight out class selectors would be.
  * The codebase was never designed to be pretty, it was designed to require as little maintenance as possible.
@@ -395,7 +395,7 @@ div[class^='sidebar-']>section>div:last-child {
 	bottom: 0;
 }
 div[class^="sidebar-"]>section>div:last-child [class^="avatarWrapper-"] {
-    flex: 1;
+    flex: 0;
 }
 
 
