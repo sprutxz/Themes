@@ -203,11 +203,11 @@ div[class^="unreadMentionsIndicatorBottom-"] {
 	bottom: 70px;
 }
 
-div[class^="unreadMentionsBar-ZXXoOH"] {
+div[class*="unreadMentionsBar-"] {
 	background-color: rgba(var(--accent-alt), 1) !important;
 }
 
-div[class*="numberBadge-37OJ3S"] {
+div[class*="numberBadge-"] {
 	background-color: var(--accent) !important;
 }
 /*
