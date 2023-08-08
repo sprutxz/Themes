@@ -207,6 +207,14 @@ div[class^="unreadMentionsIndicatorBottom-"] {
 	bottom: 70px;
 }
 
+div[class^="unreadMentionsBar-ZXXoOH"] {
+	background-color: rgba(var(--accent-alt), 1) !important;
+}
+/*
+.unreadMentionsBar-ZXXoOH {
+  background-color: rgba(var(--accent-alt), 1) !important;
+}
+*/
 #app-mount [data-list-item-id="guildsnav___home"]>div {
 	color: transparent;
 	background-color: transparent;
