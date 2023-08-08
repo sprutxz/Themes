@@ -81,10 +81,6 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
   display: none !important;
 }
 
-.unreadMentionsBar-ZXXoOH {
-  background-color: rgba(var(--accent-alt), 1) !important;
-}
-
 /* Scrollbars */
 
 ::-webkit-scrollbar {
@@ -209,6 +205,10 @@ div[class^="unreadMentionsIndicatorBottom-"] {
 
 div[class^="unreadMentionsBar-ZXXoOH"] {
 	background-color: rgba(var(--accent-alt), 1) !important;
+}
+
+div[class*="numberBadge-37OJ3S"] {
+	background-color: var(--accent) !important;
 }
 /*
 .unreadMentionsBar-ZXXoOH {
