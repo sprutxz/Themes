@@ -208,7 +208,7 @@ div[class*="unreadMentionsBar-"] {
 }
 
 div[class*="numberBadge-"] {
-	background-color: var(--accent) !important;
+	background-color: rgba(var(--accent), 1) !important;
 }
 /*
 .unreadMentionsBar-ZXXoOH {
