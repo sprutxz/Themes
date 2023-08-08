@@ -83,7 +83,7 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 
 }
 .mention-3XBnnZ {
-  background-color: var(--accent);
+  background-color: rgba(var(--accent-alt), 1) !important;
 }
 
 
