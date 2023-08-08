@@ -81,6 +81,11 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
   display: none !important;
 }
 
+}
+.mention-3XBnnZ {
+  background-color: var(--accent);
+}
+
 
 /* Scrollbars */
 
