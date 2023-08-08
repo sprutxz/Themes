@@ -1,1 +1,1 @@
-All the css code is copied from the internet and edited a little but to match my needs
+[DiscordStyles](https://github.com/DiscordStyles) DarkMatter Theme with some changes to suit my needs
