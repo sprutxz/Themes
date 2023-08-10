@@ -386,7 +386,7 @@ div[class^='sidebar-']>section>div:last-child {
 	box-sizing: border-box;
 	height: 70px;
 	padding: 0 18px;
-	width: calc(100% + 72px);
+	left: -72px;
 	position: absolute;
 	bottom: 0;
 }
