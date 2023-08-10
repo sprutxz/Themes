@@ -155,7 +155,7 @@ ul[data-list-id='guildsnav'] [class^="pill-"],
 ul[data-list-id='guildsnav'] [class^="pill-"]>div {
 	height: 40px !important;
 }
-/*
+
 ul[data-list-id='guildsnav'] div[style*="height: 56"],
 ul[id^="folder-items-"] {
 	height: auto !important;
@@ -170,7 +170,7 @@ ul[data-list-id='guildsnav'] [class^="pill-"] span {
 [data-list-id='guildsnav'] [class^="pill-"] span[style^="opacity: 1; height: 40"] {
 	--header-primary: rgba(var(--accent), 1);
 }
-
+/*
 span[class^="expandedFolderBackground-"] {
 	--background-secondary: rgba(var(--md-black), 0.25);
 	border-radius: 14px;
