@@ -130,7 +130,7 @@ div[class*="typeWindows-"]::after {
 
 
 /* Guilds */
-
+/*
 nav[class*="guilds-"] {
     background: transparent;
 }
@@ -216,7 +216,7 @@ div[data-list-item-id="guildsnav___create-join-button"]:hover,
 div[data-list-item-id="guildsnav___guild-discover-button"]:hover {
 	opacity: 1;
 }
-
+*/
 
 /* Sidebar */
 
