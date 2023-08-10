@@ -388,7 +388,6 @@ div[class^='sidebar-']>section>div:last-child {
 	padding: 0 18px;
 	width: calc(100% + 72px);
 	position: absolute;
-	left: -30px;
 	bottom: 0;
 }
 div[class^="sidebar-"]>section>div:last-child [class^="avatarWrapper-"] {
