@@ -184,6 +184,10 @@ span[class^="expandedFolderBackground-"] {
 	width: 40px;
 	height: 40px;
 }
+
+div[class*="numberBadge-"] {
+	background-color: rgba(var(--accent), 1) !important;
+}
 /*
 div[data-list-item-id="guildsnav___home"] {
 	background: var(--home-image) top center/110% no-repeat;
