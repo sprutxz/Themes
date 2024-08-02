@@ -1,0 +1,17 @@
+@import url(https://enhanceddiscord.com/theme.css);
+ 
+:root {
+    --bg-overlay: rgba(46, 52, 64, 1);
+    --accent-color: #8FBCBB;
+    --mention-color: #88C0D0;
+    --mention-bg: rgba(94, 129, 172, 0.15);
+    --mention-bgh: rgba(136, 192, 208, 0.4);
+    --link-color: #81A1C1;
+    --link-color-hover: #88C0D0;
+    --tag-color: #E5E9F0;
+    --tag-bg: rgba(143, 188, 187, 1);
+    --popup-background: #2E3440;
+    --popup-highlight: #3B4252;
+    --context-menu-bg: #3B4252;
+    --unread-color: #8FBCBB;
+}
